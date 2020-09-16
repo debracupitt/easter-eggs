@@ -1,0 +1,35 @@
+body {
+  background-color: #181818;
+  color: #fcfcfc;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 10%;
+}
+
+button {
+  color: #5b2382;
+  background-color: #f9aad0;
+  border: none;
+  padding: 24px;
+  font-size: 24px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+button:hover {
+  opacity: 0.95;
+}
+
+button:active {
+  text-decoration: underline;
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+}
