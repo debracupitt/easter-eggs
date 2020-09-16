@@ -1,9 +1,9 @@
-# Minimally React
-_Just_ enough to get React going, and hopefully no more.  
+# Easter eggs
+A tiny toy app for flexing creative muscles.
+Made from `PortableStudios/minimally-react`
 
+## Run it
 ```
-npx degit PortableStudios/minimally-react <FOLDER>
-cd <FOLDER>
 npm install && npm start
 ```
 
